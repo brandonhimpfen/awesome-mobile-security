@@ -81,6 +81,7 @@ Tools for analyzing and decompiling mobile applications.
 - [apktool](https://ibotpeaches.github.io/Apktool/) — Tool for reverse engineering Android APKs.
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) — Automated mobile security testing framework.
 - [Ghidra](https://ghidra-sre.org/) — Software reverse engineering suite.
+- [Android Malware Analysis](https://github.com/anpa1200/Android-Malware-Analysis) — AI-assisted Android APK triage with YARA, VirusTotal context, MITRE ATT&CK output, Frida hooks, and analyst reports.
 
 ## Vulnerability Scanning & Testing
 
@@ -91,6 +92,7 @@ Tools for identifying and testing security vulnerabilities.
 - [Drozer](https://github.com/FSecureLABS/drozer) — Security testing framework for Android.
 - [Needle](https://github.com/mwrlabs/needle) — Security testing framework for iOS apps.
 - [Burp Suite](https://portswigger.net/burp) — Web and mobile application security testing platform.
+- [VulnLab APK](https://github.com/anpa1200/Vulnerable-APK) — Intentionally vulnerable Android app covering OWASP Mobile Top 10 classes with exploit commands and screenshots.
 
 ## Monitoring & Runtime Protection
 
@@ -121,6 +123,9 @@ Educational materials and references for mobile security.
 - [Apple Security Updates](https://support.apple.com/en-us/HT201222) — Security advisories for Apple platforms.
 - [Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/) — In-depth testing reference.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Training on web and mobile security concepts.
+- [Android App Analysis Lab on Ubuntu](https://medium.com/@1200km/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622) — Practical Ubuntu-based Android analysis lab setup guide.
+- [One-Prompt Android PT Lab](https://medium.com/@1200km/the-one-prompt-pt-lab-autonomous-android-security-research-with-cursor-ai-b96ed2053071) — AI-assisted Android penetration-testing lab workflow.
+- [Deliberately Vulnerable Android App Covering OWASP Mobile Top 10](https://medium.com/@1200km/deliberately-vulnerable-android-app-covering-every-owasp-mobile-top-10-class-7be775fc6415) — Walkthrough for a vulnerable Android app mapped to OWASP Mobile Top 10 classes.
 
 ## Related Awesome Lists
 
