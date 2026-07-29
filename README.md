@@ -90,6 +90,7 @@ Tools for identifying and testing security vulnerabilities.
 - [QARK](https://github.com/linkedin/qark) — Static analysis tool for Android vulnerabilities.
 - [Drozer](https://github.com/FSecureLABS/drozer) — Security testing framework for Android.
 - [Needle](https://github.com/mwrlabs/needle) — Security testing framework for iOS apps.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Burp Suite](https://portswigger.net/burp) — Web and mobile application security testing platform.
 
 ## Monitoring & Runtime Protection
